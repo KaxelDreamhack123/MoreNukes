@@ -1,0 +1,5 @@
+// 1.20.1	2025-02-14T22:21:21.8334349	Block States: morenukes
+c3af7fee28bdab67345d10cbf5cf5747be2eb0b7 assets/morenukes/blockstates/rbmk_fuel_column_part.json
+01a4a9207aef4ca4f0e1f746feece857beb32c22 assets/morenukes/blockstates/rbmk_fuel_core.json
+9ca42da9f68f0dca20b67c0e6f6c77f9738c3a4e assets/morenukes/models/block/rbmk/fuel/rbmk_fuel_column_part.json
+91fa362b3d907dcf9b41130d9a86d2baf18f90e6 assets/morenukes/models/block/rbmk/fuel/rbmk_fuel_core.json

@@ -1,0 +1,4 @@
+// 1.20.1	2025-02-14T22:21:21.8334349	Tags for minecraft:block mod id morenukes
+2604340ba5e0f286376ec0449697e933a5ae16f2 data/minecraft/tags/blocks/mineable/pickaxe.json
+326f285a5db6d7c2433a3ef12420442afbdd163e data/minecraft/tags/blocks/needs_diamond_tool.json
+3879d910896edd2df7e331b03c56e16d7a6f7f2c data/minecraft/tags/blocks/needs_iron_tool.json

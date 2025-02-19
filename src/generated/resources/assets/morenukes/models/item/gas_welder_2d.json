@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "morenukes:item/gas_welder_2d_icon"
+  }
+}

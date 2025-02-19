@@ -1,0 +1,21 @@
+{
+  "gas_welder_ambient": {
+    "sounds": [
+      {
+        "name": "morenukes:item/gas_welder_ambient",
+        "stream": true,
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "sound.morenukes.gas_welder_ambient"
+  },
+  "gas_welder_use": {
+    "sounds": [
+      {
+        "name": "morenukes:item/gas_welder_use",
+        "preload": true
+      }
+    ],
+    "subtitle": "sound.morenukes.gas_welder_use"
+  }
+}

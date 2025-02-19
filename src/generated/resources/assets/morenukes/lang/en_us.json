@@ -1,0 +1,8 @@
+{
+  "block.morenukes.rbmk_fuel_column_part": "RBMK Fuel Column Part",
+  "block.morenukes.rbmk_fuel_core": "RBMK Fuel Core",
+  "item.morenukes.gas_welder": "Gas Welder",
+  "morenukes.screen.rbmk_fuel_core": "RBMK Fuel Core",
+  "sound.morenukes.gas_welder_ambient": "Gas Welder Ambient Sound",
+  "sound.morenukes.gas_welder_use": "Gas Welder Use Sound"
+}

@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:item/handheld",
+  "base": {
+    "parent": "morenukes:item/gas_welder_3d"
+  },
+  "loader": "forge:separate_transforms",
+  "perspectives": {
+    "fixed": {
+      "parent": "minecraft:item/handheld",
+      "textures": {
+        "layer0": "morenukes:item/gas_welder_2d_icon"
+      }
+    },
+    "ground": {
+      "parent": "minecraft:item/handheld",
+      "textures": {
+        "layer0": "morenukes:item/gas_welder_2d_icon"
+      }
+    },
+    "gui": {
+      "parent": "minecraft:item/handheld",
+      "textures": {
+        "layer0": "morenukes:item/gas_welder_2d_icon"
+      }
+    }
+  }
+}

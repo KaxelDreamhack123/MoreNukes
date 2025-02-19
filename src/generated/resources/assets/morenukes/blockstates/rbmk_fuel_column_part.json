@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "morenukes:block/rbmk/fuel/rbmk_fuel_column_part"
+    }
+  }
+}
